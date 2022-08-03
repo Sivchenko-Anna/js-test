@@ -1,1 +1,1 @@
-# js-test
+# https://sivchenko-anna.github.io/js-test/power/
